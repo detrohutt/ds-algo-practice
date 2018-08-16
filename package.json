@@ -1,0 +1,9 @@
+{
+  "name": "ds-algo-practice",
+  "version": "1.0.0",
+  "description": "Practicing common data structures and algorithms in TypeScript",
+  "main": "index.js",
+  "repository": "git@github.com:detrohutt/ds-algo-practice.git",
+  "author": "A.J. Roberts <detrohutt@gmail.com>",
+  "license": "MIT"
+}
