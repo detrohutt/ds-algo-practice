@@ -41,7 +41,7 @@
   },
   "lint-staged": {
     "*.ts": [
-      "tslint -c tslint.json",
+      "tslint -c tslint.json --fix",
       "prettier --write",
       "git add"
     ]
